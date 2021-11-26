@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MatchaLunatic's women and queer folks poetry blog</title><link>https://matchalunatic.github.io/b2021/</link><description>Recent content on MatchaLunatic's women and queer folks poetry blog</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Fri, 26 Nov 2021 15:16:58 +0100</lastBuildDate><atom:link href="https://matchalunatic.github.io/b2021/index.xml" rel="self" type="application/rss+xml"/><item><title>Create your own blog: instructions</title><link>https://matchalunatic.github.io/b2021/instructions/</link><pubDate>Fri, 26 Nov 2021 15:16:58 +0100</pubDate><guid>https://matchalunatic.github.io/b2021/instructions/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/instructions/ -&lt;h1 id="create-a-github-repository">create a GitHub repository&lt;/h1>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MatchaLunatic's women and queer folks poetry blog</title><link>https://matchalunatic.github.io/</link><description>Recent content on MatchaLunatic's women and queer folks poetry blog</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Fri, 26 Nov 2021 15:16:58 +0100</lastBuildDate><atom:link href="https://matchalunatic.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Create your own blog: instructions</title><link>https://matchalunatic.github.io/instructions/</link><pubDate>Fri, 26 Nov 2021 15:16:58 +0100</pubDate><guid>https://matchalunatic.github.io/instructions/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/instructions/ -&lt;h1 id="create-a-github-repository">create a GitHub repository&lt;/h1>
 &lt;p>Name it &lt;!-- raw HTML omitted -->.github.io&lt;/p>
 &lt;p>Make it a public repository. Do not add a README or Gitignore or whatever: an empty repository is fine.&lt;/p>
 &lt;p>Mine is &lt;a href="https://github.com/matchalunatic/matchalunatic.github.io">https://github.com/matchalunatic/matchalunatic.github.io&lt;/a>, check it out!&lt;/p>
@@ -67,7 +67,7 @@ alt="a branch icon, with three dots and connecting lines forming a Y"/>&lt;figca
 &lt;/ul>
 &lt;p>We will make use of an automation tool, called a GitHub Action, that will do just that automatically each time we push our changes to the main branch of our repository.&lt;/p>
 &lt;p>The action is available from &lt;a href="https://github.com/peaceiris/actions-hugo">https://github.com/peaceiris/actions-hugo&lt;/a>, and you can copy mine from here:&lt;/p>
-- https://matchalunatic.github.io/b2021/instructions/ -</description></item><item><title>Home, by Warsan Shire</title><link>https://matchalunatic.github.io/b2021/posts/home-by-warsan-shire/</link><pubDate>Fri, 26 Nov 2021 15:16:58 +0100</pubDate><guid>https://matchalunatic.github.io/b2021/posts/home-by-warsan-shire/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/home-by-warsan-shire/ -&lt;h1 id="home-by-warsan-shire">Home, by Warsan Shire&lt;/h1>
+- https://matchalunatic.github.io/instructions/ -</description></item><item><title>Home, by Warsan Shire</title><link>https://matchalunatic.github.io/posts/home-by-warsan-shire/</link><pubDate>Fri, 26 Nov 2021 15:16:58 +0100</pubDate><guid>https://matchalunatic.github.io/posts/home-by-warsan-shire/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/home-by-warsan-shire/ -&lt;h1 id="home-by-warsan-shire">Home, by Warsan Shire&lt;/h1>
 &lt;p>no one leaves home unless&lt;br>
 home is the mouth of a shark&lt;br>
 you only run for the border&lt;br>
@@ -166,7 +166,7 @@ is safer than here&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/nI9D92Xiygo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-- https://matchalunatic.github.io/b2021/posts/home-by-warsan-shire/ -</description></item><item><title>Breathe. As in. (shadow) by Rosamond S. King</title><link>https://matchalunatic.github.io/b2021/posts/breathe.as-in.shadow-by-rosamond-s-king/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/breathe.as-in.shadow-by-rosamond-s-king/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/breathe.as-in.shadow-by-rosamond-s-king/ -&lt;p>Breathe&lt;br>
+- https://matchalunatic.github.io/posts/home-by-warsan-shire/ -</description></item><item><title>Breathe. As in. (shadow) by Rosamond S. King</title><link>https://matchalunatic.github.io/posts/breathe.as-in.shadow-by-rosamond-s-king/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/breathe.as-in.shadow-by-rosamond-s-king/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/breathe.as-in.shadow-by-rosamond-s-king/ -&lt;p>Breathe&lt;br>
 . As in what if&lt;br>
 the shadow is gold&lt;br>
 en? Breathe. As in&lt;br>
@@ -186,7 +186,7 @@ right to breathe and remain&lt;br>
 . Imagine&lt;br>
 that&lt;br>
 .&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/breathe.as-in.shadow-by-rosamond-s-king/ -</description></item><item><title>Hair, by Francisco Aragón</title><link>https://matchalunatic.github.io/b2021/posts/hair-by-francisco-aragon/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/hair-by-francisco-aragon/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/hair-by-francisco-aragon/ -&lt;p>&lt;em>for M&lt;/em>&lt;/p>
+- https://matchalunatic.github.io/posts/breathe.as-in.shadow-by-rosamond-s-king/ -</description></item><item><title>Hair, by Francisco Aragón</title><link>https://matchalunatic.github.io/posts/hair-by-francisco-aragon/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/hair-by-francisco-aragon/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/hair-by-francisco-aragon/ -&lt;p>&lt;em>for M&lt;/em>&lt;/p>
 &lt;ol>
 &lt;li>&lt;/li>
 &lt;/ol>
@@ -217,7 +217,7 @@ his chest&lt;/p>
 wanders&lt;br>
 the forest&lt;br>
                         &lt;em>after Andrés Montoya &amp;amp; Francisco X. Alarcón&lt;/em>&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/hair-by-francisco-aragon/ -</description></item><item><title>Kudzu, by Saeed Jones</title><link>https://matchalunatic.github.io/b2021/posts/kudzu-by-saeed-jones/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/kudzu-by-saeed-jones/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/kudzu-by-saeed-jones/ -&lt;p>           I won’t be forgiven&lt;/p>
+- https://matchalunatic.github.io/posts/hair-by-francisco-aragon/ -</description></item><item><title>Kudzu, by Saeed Jones</title><link>https://matchalunatic.github.io/posts/kudzu-by-saeed-jones/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/kudzu-by-saeed-jones/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/kudzu-by-saeed-jones/ -&lt;p>           I won’t be forgiven&lt;/p>
 &lt;p>for what I’ve made&lt;/p>
 &lt;p>of myself.&lt;/p>
 &lt;p>            Soil recoils&lt;/p>
@@ -242,7 +242,7 @@ the forest&lt;br>
 &lt;p>            And if I ever strangled sparrows,&lt;/p>
 &lt;p>it was only because I dreamed&lt;/p>
 &lt;p>of better songs.&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/kudzu-by-saeed-jones/ -</description></item><item><title>Langston Blue, by Jericho Brown</title><link>https://matchalunatic.github.io/b2021/posts/langston-blue-by-jericho-brown/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/langston-blue-by-jericho-brown/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/langston-blue-by-jericho-brown/ -&lt;p>“O Blood of the River of songs,&lt;br>
+- https://matchalunatic.github.io/posts/kudzu-by-saeed-jones/ -</description></item><item><title>Langston Blue, by Jericho Brown</title><link>https://matchalunatic.github.io/posts/langston-blue-by-jericho-brown/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/langston-blue-by-jericho-brown/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/langston-blue-by-jericho-brown/ -&lt;p>“O Blood of the River of songs,&lt;br>
 O songs of the River of Blood,”&lt;br>
        Let me lie down. Let my words&lt;/p>
 &lt;p>Lie sound in the mouths of men&lt;br>
@@ -299,7 +299,7 @@ A race, climbed a tree that winter, then&lt;br>
 &lt;p>After line, I read all the time,&lt;br>
 But “there was nothing I could do&lt;br>
        About race.”&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/langston-blue-by-jericho-brown/ -</description></item><item><title>My Lover is a Woman, by Pat Parker</title><link>https://matchalunatic.github.io/b2021/posts/my-lover-is-a-woman-by-pat-parker/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/my-lover-is-a-woman-by-pat-parker/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/my-lover-is-a-woman-by-pat-parker/ -&lt;p>I.&lt;/p>
+- https://matchalunatic.github.io/posts/langston-blue-by-jericho-brown/ -</description></item><item><title>My Lover is a Woman, by Pat Parker</title><link>https://matchalunatic.github.io/posts/my-lover-is-a-woman-by-pat-parker/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/my-lover-is-a-woman-by-pat-parker/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/my-lover-is-a-woman-by-pat-parker/ -&lt;p>I.&lt;/p>
 &lt;p>my lover is a woman&lt;br>
 &amp;amp; when i hold her&lt;br>
 feel her warmth&lt;br>
@@ -395,7 +395,7 @@ i look at my lover&lt;br>
 &lt;p>then—i hold her hand tighter&lt;br>
      &amp;amp; i can hear my mother cry.&lt;br>
      Lord, what kind of child is this?&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/my-lover-is-a-woman-by-pat-parker/ -</description></item><item><title>The Talking Back of Miss Valentine Jones: Poem # one, by June Jordan</title><link>https://matchalunatic.github.io/b2021/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/ -&lt;p>well I wanted to braid my hair&lt;br>
+- https://matchalunatic.github.io/posts/my-lover-is-a-woman-by-pat-parker/ -</description></item><item><title>The Talking Back of Miss Valentine Jones: Poem # one, by June Jordan</title><link>https://matchalunatic.github.io/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/ -&lt;p>well I wanted to braid my hair&lt;br>
 bathe and bedeck my&lt;br>
 self so fine&lt;br>
 so fully aforethought for&lt;br>
@@ -483,7 +483,7 @@ be-&lt;br>
 cause what I wanted was&lt;br>
 your love&lt;br>
 your love&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/ -</description></item><item><title>Things Haunt, by Joshua Jennifer Espinoza</title><link>https://matchalunatic.github.io/b2021/posts/things-haunt-by-joshua-jennifer-espinoza/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/b2021/posts/things-haunt-by-joshua-jennifer-espinoza/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/b2021/posts/things-haunt-by-joshua-jennifer-espinoza/ -&lt;p>California is a desert and I am a woman inside it.&lt;br>
+- https://matchalunatic.github.io/posts/the-talking-back-of-miss-valentine-jones-poem-number-one-by-june-jordan/ -</description></item><item><title>Things Haunt, by Joshua Jennifer Espinoza</title><link>https://matchalunatic.github.io/posts/things-haunt-by-joshua-jennifer-espinoza/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://matchalunatic.github.io/posts/things-haunt-by-joshua-jennifer-espinoza/</guid><description>MatchaLunatic's women and queer folks poetry blog https://matchalunatic.github.io/posts/things-haunt-by-joshua-jennifer-espinoza/ -&lt;p>California is a desert and I am a woman inside it.&lt;br>
 The road ahead bends sideways and I lurch within myself.&lt;br>
 I’m full of ugly feelings, awful thoughts, bad dreams&lt;br>
 of doom, and so much love left unspoken.&lt;/p>
@@ -501,4 +501,4 @@ I give and I ask for only one thing—&lt;/p>
 &lt;p>Hear me. Hear me. Hear me. Hear me. Hear me.&lt;br>
 Hear me. Bear the weight of my voice and don’t forget—&lt;br>
 things haunt. Things exist long after they are killed.&lt;/p>
-- https://matchalunatic.github.io/b2021/posts/things-haunt-by-joshua-jennifer-espinoza/ -</description></item></channel></rss>
+- https://matchalunatic.github.io/posts/things-haunt-by-joshua-jennifer-espinoza/ -</description></item></channel></rss>
